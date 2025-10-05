@@ -1,0 +1,10 @@
+{
+    "name": "UkCheats",
+    "version_number": "2.2.1",
+    "website_url": "https://github.com/SwishReal/UkCheats",
+    "description": "Cheats for ULTRAKILL",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	"EternalsTeam-PluginConfigurator-1.10.2"
+    ]
+}
